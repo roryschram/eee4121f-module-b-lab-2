@@ -12,7 +12,7 @@ To create the topology, run:
 sudo sh run.sh
 ```
 
-To recreate the results, run the following command when he mininet promp appears.
+To run our implementation of the program, run the following command when he mininet promp appears.
 ```bash
 pingall
 ```
