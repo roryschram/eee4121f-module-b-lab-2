@@ -1,15 +1,23 @@
-# eee4121f-b-lab2
-# WLSCAM007 SCHROR002
+# EEE4121F Module B Lab 2
+# SCHROR002
 
-This is intended for use in the following VM provided by UCT lecturer Joyce Mwangama:
-	https://www.dropbox.com/s/zhrx3av0rwtkexd/eee4121f-b%20with%20p4.ova?dl=0
+Please run this code in the given part 1 virtual machine provided by Dr Joyce Mwangama.
+
+Please cd into the "firewall" directory using the following command:
+'''bash
+cd /path/to/firewall/directory
+'''
 
 The code can be run with the following command:
-	'sh run.sh'
+'''bash
+sudo sh run.sh
+'''
 
-To run the simulation, make the required changes to firewall-policies.csv,
-	and then, when the mininet prompt appears, run:
-		'pingall'
+To run the simulation with different MAC addresses to be blocked, make the required changes to firewall-policies.csv, and then run the shell file again using:
+'''bash
+sudo sh run.sh
+'''
 
 Trouble shooting:
-	Prefix commands with 'sudo'
+Prefix commands with 'sudo'
+Password for the VM: "MODB"
