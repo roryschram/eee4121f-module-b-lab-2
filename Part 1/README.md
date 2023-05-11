@@ -19,5 +19,6 @@ sudo sh run.sh
 ```
 
 Trouble shooting:
-Prefix commands with 'sudo'
+Prefix commands with "sudo"
+
 Password for the VM: "MODB"
