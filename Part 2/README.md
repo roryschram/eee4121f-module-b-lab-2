@@ -1,6 +1,6 @@
 # EEE4121F Module B Lab 2
 # SCHROR002
-Please run this code in the given part 1 virtual machine provided by Dr Joyce Mwangama.
+Please run this code in the given part 2 virtual machine provided by Dr Joyce Mwangama.
 
 Please cd into the "/simple_router/ipv4_router" directory using the following command:
 ```bash
